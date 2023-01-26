@@ -14,7 +14,10 @@
  * 11. Write a tester to test your class (all methods).
  */
 
+//testing 
+
 public class Even {
+
      
 	private int num; //1- one private integer member that has to be even at all times
     
